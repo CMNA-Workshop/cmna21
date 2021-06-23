@@ -20,6 +20,12 @@
   </url>
   
   <url>
+    <loc>https://cmna-workshop.github.io/cmna21/news/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://cmna-workshop.github.io/cmna21/organisation/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
