@@ -20,5 +20,5 @@ It is highly recommended, but not mandatory, to format papers using the [Springe
 
 * https://easychair.org/conferences/?conf=cmna21
 
-We plan to publish proceedings for CMNA 21 through [CEUR Workshop Proceedings](http://ceur-ws.org/) as has happened in previous years. 
+We plan to publish proceedings for CMNA 21 through [CEUR Workshop Proceedings](http://ceur-ws.org/) as has happened in previous years.
 

@@ -4,7 +4,9 @@ subtitle:
 comments: false
 ---
 
-We'll post information about the programme of events for the workshop day in due course.
+* We'll post information about the programme of events for the workshop day in due course.
+* Register to attend on the day via [Eventbrite](https://www.eventbrite.com/e/cmna-xxi-the-21st-workshop-on-computational-models-of-natural-argument-tickets-160894310213).
+
 
 <!--
 CMNA 20 will be using Zoom for meeting participants. We'll distribute links to registered delegates prior to the meeting. CMNA will also be streaming our meeting using Facebook Live on the [CMNA Facebook page](https://www.facebook.com/CMNAworkshops/). 

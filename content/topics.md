@@ -23,3 +23,10 @@ The workshop focuses on the issue of modelling "natural" argumentation. Contribu
 * Computer supported collaborative argumentation, for pedagogy, e-democracy and public debate.
 * Tools for interacting with structures of argument.
 * Applications of argumentation based systems.
+
+We've prided ourselves in operating CMNA as a "broad church" and aiming for inclusiveness so if you're unsure of whether CMNA is a good fit for your work you can:
+
+1. [contact](/cmna21/organisation/) a member of the organising committee, or 
+2. explore our archives at the [CMNA.info](http://cmna.info) site or 
+3. survey a selection of papers from the CEUR archive of previous CMNA workshops ([Volume #2269 (CMNA'20)](http://ceur-ws.org/Vol-2669/), [Volume #2346 (CMNA'19)](http://ceur-ws.org/Vol-2346/), [Volume #2048 (CMNA'17)](http://ceur-ws.org/Vol-2048/), [Volume #1876 (CMNA'16)](http://ceur-ws.org/Vol-1876/)).
+
