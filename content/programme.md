@@ -5,7 +5,7 @@ comments: false
 ---
 
 * We'll post information about the programme of events for the workshop day in due course.
-* Register to attend on the day via [Eventbrite](https://www.eventbrite.com/e/cmna-xxi-the-21st-workshop-on-computational-models-of-natural-argument-tickets-160894310213).
+* Register to attend for free on the day via [Eventbrite](https://www.eventbrite.com/e/cmna-xxi-the-21st-workshop-on-computational-models-of-natural-argument-tickets-160894310213).
 
 
 <!--
