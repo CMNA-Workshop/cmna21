@@ -31,31 +31,21 @@ Subject to confirmation...
 <dl>
 
 <dt>Trevor	Bench-Capon</dt><dd>University of Liverpool</dd>
-<dt>Floris	Bex</dt><dd>Utrecht University</dd>
-<dt>Sarah	Bigi</dt><dd>Università Cattolica del Sacro Cuore</dd>
 <dt>Elena	Cabrio</dt><dd>Université Côte d'Azur, CNRS, Inria, I3S, France</dd>
 <dt>Reva	Freedman</dt><dd>Northern Illinois University</dd>
-<dt>Massimiliano	Giacomin</dt><dd>University of Brescia</dd>
 <dt>Floriana	Grasso</dt><dd>University of Liverpool</dd>
 <dt>Nancy	Green</dt><dd>University of North Carolina Greensboro</dd>
-<dt>Randy	Harris</dt><dd>University of Waterloo</dd>
-<dt>Stella	Heras</dt><dd>Universitat Politècnica de València</dd>
-<dt>Helmut	Horacek</dt><dd>Saarland University</dd>
+<dt>Collin	Lynch</dt><dd>North Carolina State University</dd>
 <dt>Fabrizio	Macagno</dt><dd>Universidade NOVA de Lisboa</dd>
-<dt>Nicole	Novielli</dt><dd>Dipartimento di Informatica, University of Bari</dd>
-<dt>Nir	Oren</dt><dd>University of Aberdeen</dd>
-<dt>Fabio	Paglieri</dt><dd>ISTC-CNR Rome</dd>
-<dt>Rudi	Palmieri</dt><dd>University of Liverpool</dd>
-<dt>Saint Dizier</dt><dd>IRIT-CNRS</dd>
+<dt>Elena	Musi</dt><dd>University of Liverpool</dd>
+<dt>Saint Dizier</dt><dd>Patrick	IRIT-CNRS</dd>
 <dt>Paul	Piwek</dt><dd>The Open University</dd>
 <dt>Jodi	Schneider</dt><dd>University of Illinois Urbana Champaign</dd>
-<dt>Mark	Snaith</dt><dd>University of Dundee</dd>
+<dt>Mark	Snaith</dt><dd>Robert Gordon University Aberdeen</dd>
 <dt>Marko	Tkalcic</dt><dd>University of Primorska</dd>
-<dt>Alice	Toniolo</dt><dd>University of St Andrews</dd>
-<dt>Paolo	Torroni</dt><dd>University of Bologna</dd>
 <dt>Serena	Villata</dt><dd>CNRS - Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis</dd>
 <dt>Simon	Wells</dt><dd>Edinburgh Napier University</dd>
-<dt>Frank	Zenker</dt><dd>Lund University</dd>
+<dt>Tommy	Yuan</dt><dd>University of York</dd>
 
 </dl>
 
