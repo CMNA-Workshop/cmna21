@@ -5,7 +5,7 @@ comments: false
 ---
 
 
-<!--* Download a PDF version of the [first call for papers](/assets/cfp/cfp.pdf) -->
+* Download a PDF version of the [first call for papers](/cmna21/assets/cfp/cfp1.pdf) 
 <!--* Download a PDF version of the [second call for papers](http://arg.napier.ac.uk/events/cmna/assets/cfp/cfp2.pdf)-->
 
 
