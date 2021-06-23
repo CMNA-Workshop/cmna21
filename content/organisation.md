@@ -41,8 +41,10 @@ Subject to confirmation...
 <dt>Saint Dizier</dt><dd>Patrick	IRIT-CNRS</dd>
 <dt>Paul	Piwek</dt><dd>The Open University</dd>
 <dt>Jodi	Schneider</dt><dd>University of Illinois Urbana Champaign</dd>
+<dt>Guillermo R. Simari</dt><dd>Universidad del Sur in Bahia Blanca</dd>
 <dt>Mark	Snaith</dt><dd>Robert Gordon University Aberdeen</dd>
 <dt>Marko	Tkalcic</dt><dd>University of Primorska</dd>
+<dt>Alice	Toniolo</dt><dd>University of St Andrews</dd>
 <dt>Serena	Villata</dt><dd>CNRS - Laboratoire d'Informatique, Signaux et Systèmes de Sophia-Antipolis</dd>
 <dt>Simon	Wells</dt><dd>Edinburgh Napier University</dd>
 <dt>Tommy	Yuan</dt><dd>University of York</dd>
