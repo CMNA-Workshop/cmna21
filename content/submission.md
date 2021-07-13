@@ -7,7 +7,7 @@ comments: false
 # Workshop Submission
 
 * Download a PDF version of the [first call for papers](/cmna21/assets/cfp/cfp1.pdf) 
-<!--* Download a PDF version of the [second call for papers](http://arg.napier.ac.uk/events/cmna/assets/cfp/cfp2.pdf)-->
+* Download a PDF version of the [second call for papers](/cmna21/assets/cfp/cfp2.pdf)
 
 
 The workshop encourages submissions in four categories:
