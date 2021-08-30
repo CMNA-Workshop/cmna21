@@ -5,20 +5,15 @@ comments: false
 ---
 
 * Register to attend for free on the day via [Eventbrite](https://www.eventbrite.com/e/cmna-xxi-the-21st-workshop-on-computational-models-of-natural-argument-tickets-160894310213).
-
-
-CMNA 21 will use Zoom for meeting participants. We'll distribute links to registered delegates prior to the meeting. 
+* CMNA 21 will use Zoom for meeting participants. We'll distribute links to registered delegates prior to the meeting.
 <!--
 CMNA will also be streaming our meeting using Facebook Live on the [CMNA Facebook page](https://www.facebook.com/CMNAworkshops/). 
 -->
-
-[CMNA 2021 Proceedings](http://ceur-ws.org/Vol-2937/) are now available published through CEUR Workshop Proceedings.
-
-Note that all times are in British Summer Time (GMT +1)
+* [CMNA 2021 Proceedings](http://ceur-ws.org/Vol-2937/) are now available published through CEUR Workshop Proceedings.
+* Note that all times are in British Summer Time (GMT +1). You can use [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMNA+2021&iso=20210902T15&p1=136&ah=2&am=30) to double check the time in your own timezone for the sessions.
+* The closing seminar is part of the Ethics of Argumentation seminar series. We'll post a link to joing that event here in due time.
 
 # Session #1 (Thursday September 2nd, 15:00-17:30 BST)
-
-You can use [this link](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMNA+2021&iso=20210902T15&p1=136&ah=2&am=30) to double check the time in your own timezone for the sessions.
 
 |  Authors | Title  | Time  |
 |----------|---|---|
@@ -54,3 +49,12 @@ You can use [this link](https://www.timeanddate.com/worldclock/fixedtime.html?ms
 | | **Closing Remarks** | 17:30-17:35 |
 | | **INFORMAL CHAT** | 17:35-18:00 |
 
+# Closing Seminar (18:00-19:00 BST)
+
+This year we've coordinated with the [interdisciplinary monthly online speaker series on the ethics of argumentation]() for the closing seminar. We'll share the link to that seminar to all CMNA delegates and invite them to join that event immediately after the close of CMNA'21.
+
+**Title:** Sources of Opinion: The Community of Knowledge and How to Take Advantage of Outsourcing
+
+**Speaker:** [Steven A. Sloman](https://vivo.brown.edu/display/ssloman), [Brown University](https://www.brown.edu/)
+
+**Abstract:** People have some crazy opinions. Generally, these are the opinions that we disagree with. The standard view in both academia and the wider culture is that people have such opinions due to knowledge deficits; they are lacking information. On this view, providing information and critical reasoning skills is the best way to get opinions to converge, because they’ll converge to the truth. There is already strong reason to doubt this deficit model. I provide more in the form of evidence that knowledge is unrelated to attitudes about issues. In contrast, a person’s ideology influences both their attitudes and their sense of understanding. A competitor to the deficit model, the cultural cognition view, explains the effect of ideology on attitudes, but does not address the sense of understanding. I follow the cultural cognition view in proposing that people outsource much of their reasoning to their communities; I add that it is the resulting sense of understanding that mediates their attitudes. This community of knowledge suggests that people outsource most of their reasoning. I show how this fact can be deployed to bring evidence to bear on policy.
