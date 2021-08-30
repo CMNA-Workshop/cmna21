@@ -23,10 +23,10 @@ You can use [this link](https://www.timeanddate.com/worldclock/fixedtime.html?ms
 |  Authors | Title  | Time  |
 |----------|---|---|
 | | **Introductory Remarks** | 15:00-15:15 |
-|  Annalena Aicher, Wolfgang Minker and Stefan Ultes | [Determination of Reflective User Engagement in Argumentative Dialogue Systems](http://ceur-ws.org/Vol-2669/paper1.pdf)  | 15:15-15:45  | 
-|  Mark Snaith and Simon Wells | [Towards a Declarative Approach to Constructing Dialogue Games](http://ceur-ws.org/Vol-2669/paper2.pdf)  |  15:45-16:15 | 
+|  Annalena Aicher, Wolfgang Minker and Stefan Ultes | [Determination of Reflective User Engagement in Argumentative Dialogue Systems](http://ceur-ws.org/Vol-2937/paper1.pdf)  | 15:15-15:45  | 
+|  Mark Snaith and Simon Wells | [Towards a Declarative Approach to Constructing Dialogue Games](http://ceur-ws.org/Vol-2937/paper2.pdf)  |  15:45-16:15 | 
 | | **BREAK/COFFEE/CHAT** | 16:15-16:30 | 
-|  Nancy Green | [Some Argumentative Uses of the Rhetorical Figure of Antithesis in Environmental Science Policy Articles](http://ceur-ws.org/Vol-2669/paper3.pdf) | 16:30-17:00 |
+|  Nancy Green | [Some Argumentative Uses of the Rhetorical Figure of Antithesis in Environmental Science Policy Articles](http://ceur-ws.org/Vol-2937/paper3.pdf) | 16:30-17:00 |
 | | **CLOSING** | 17:00-17:05 |
 | | **INFORMAL CHAT** | 17:05-17:30 |
 
@@ -46,11 +46,11 @@ You can use [this link](https://www.timeanddate.com/worldclock/fixedtime.html?ms
 |  Authors | Title  | Time  |
 |----------|---|---|
 | | **Introductory Remarks** | 15:00-15:15 |
-| Elena Musi, Rudi Palmieri, Chiara Mercuri, Alessandro Giudici, Neil Maiden, Charlotte Hardman and Rita Borgo  | [What makes you fupy (‘food’ + ‘happy’)? Leveraging strategic maneuvering to build food coaching apps](http://ceur-ws.org/Vol-2669/paper5.pdf) | 15:15-15:45 | 
-| Lars Malmqvist, Tommy Yuan and Peter Nightingale.  | [Improving Misinformation Detection in Tweets with Abstract Argumentation](http://ceur-ws.org/Vol-2669/paper6.pdf) | 15:45-16:15 | 
+| Elena Musi, Rudi Palmieri, Chiara Mercuri, Alessandro Giudici, Neil Maiden, Charlotte Hardman and Rita Borgo  | [What makes you fupy (‘food’ + ‘happy’)? Leveraging strategic maneuvering to build food coaching apps](http://ceur-ws.org/Vol-2937/paper4.pdf) | 15:15-15:45 | 
+| Lars Malmqvist, Tommy Yuan and Peter Nightingale.  | [Improving Misinformation Detection in Tweets with Abstract Argumentation](http://ceur-ws.org/Vol-2937/paper5.pdf) | 15:45-16:15 | 
 | | **BREAK/COFFEE/CHAT** | 16:15-16:30 |
-| Jack Mumford, Katie Atkinson and Trevor Bench-Capon | [Machine Learning and Legal Argument](http://ceur-ws.org/Vol-2669/paper7.pdf) | 16:30-17:00 |
-| Nancy Green and Joshua Crotts | [A First Experiment Using ILP for Argument Mining](http://ceur-ws.org/Vol-2669/paper8.pdf) | 17:00-17:30 |
+| Jack Mumford, Katie Atkinson and Trevor Bench-Capon | [Machine Learning and Legal Argument](http://ceur-ws.org/Vol-2937/paper6.pdf) | 16:30-17:00 |
+| Nancy Green and Joshua Crotts | [A First Experiment Using ILP for Argument Mining](http://ceur-ws.org/Vol-2937/paper7.pdf) | 17:00-17:30 |
 | | **Closing Remarks** | 17:30-17:35 |
 | | **INFORMAL CHAT** | 17:35-18:00 |
 
