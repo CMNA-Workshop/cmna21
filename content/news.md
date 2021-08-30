@@ -5,7 +5,7 @@ comments: false
 ---
 
 * [2021.08.30] [Proceedings](http://ceur-ws.org/Vol-2937/) published
-* [2021.08.30] [Programme](/cmna21/programme/) Published
+* [2021.08.30] [Programme](/cmna21/programme/) published
 * [2021.07.26] Dates Updated
 * [2021.07.13] Second call for papers is available  (& [downloadable as a PDF](/cmna21/assets/cfp/cfp2.pdf)))
 * [2021.07.12] Paper submission date extension until 23rd July
