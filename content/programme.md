@@ -48,7 +48,7 @@ comments: false
 
 # Closing Seminar (18:00-19:00 BST)
 
-This year we've coordinated with the [interdisciplinary monthly online speaker series on the ethics of argumentation]() for the closing seminar. We'll share the link to that seminar to all CMNA delegates and invite them to join that event immediately after the close of CMNA'21.
+This year we've coordinated with the [interdisciplinary monthly online speaker series on the ethics of argumentation](https://argumentethics2021.wixsite.com/argumentationethics) for the closing seminar. We'll share the link to that seminar to all CMNA delegates and invite them to join that event immediately after the close of CMNA'21.
 
 **Title:** Sources of Opinion: The Community of Knowledge and How to Take Advantage of Outsourcing
 
