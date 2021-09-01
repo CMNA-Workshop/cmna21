@@ -32,7 +32,7 @@ comments: false
 **Abstract:** The exploration of the relationships between belief revision and computational argumentation has led to significant contributions for both areas; several techniques employed in belief revision are being studied to formalize the dynamics of argumentation frameworks and the capabilities of the argumentation-based defeasible reasoning are being used to define belief change operators. By briefly considering the fundamental ideas of both areas it is possible to examine some of the mutually beneficial cross-application in different proposals that model reasoning mechanisms that combine contributions from the two domains.
 -->
 
-# Session #2 (Friday September 3rdm 15:00-17:30 BST)
+# Session #2 (Friday September 3rd 15:00-17:30 BST)
 
 
 |  Authors | Title  | Time  |
